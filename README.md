@@ -13,3 +13,5 @@ Lasso Regression
 Elastic Net Regression
 Remember to go through the rubric so that you can see how you will be assessed on the above regression techniques. 
 
+## **N/B: Please Load the File on Collab to view more visuals plotted by plotly**
+
